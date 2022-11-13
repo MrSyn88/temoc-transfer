@@ -1,5 +1,5 @@
 .reset {
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
     display: flex;
     align-items: center;
@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    background-color: #dcdcdc;
+    background-color: #5fe0b7;
     padding: 30px;
 }
 
@@ -26,7 +26,7 @@
     margin-bottom: 10px;
     border: none;
     color: white;
-    background-color: black;
+    background-color: #e87500;
 }
 
 .reset div {
